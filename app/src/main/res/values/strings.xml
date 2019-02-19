@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="china">Chinese</string>
+    <string name="btn">DECIDE!</string>
+    <string name="add">Add Food</string>
+    <string name="newFoo">Add new food</string>
+    <string name="message">Input field is empty</string>
+</resources>
